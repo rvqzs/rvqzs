@@ -4,11 +4,11 @@
 </div>
 
 ## About me
-- 👀 Interested in Networking, Software Development and CyberSecurity.
-- 🌱 Learning Flask, currently. 
+- 👀 Interested in **Cloud Engineering**, **Web Development**, and **Automation**
+- 🌱 Currently Learning Python and AWS. 
 - 🌐 Personal Website: [robertviquez.com](https://robertviquez.com/). 
 - 🎓 Pursuing a degree in Systems Engineering @Universidad Internacional de las Américas
-- ⚡ Fun fact: Excel Macros got me into coding
+<!--- - ⚡ Fun fact: Excel Macros got me into coding --->
 <br>
 
 ### ⚙️ &nbsp;GitHub Analytics
